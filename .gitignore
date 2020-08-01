@@ -24,3 +24,6 @@ hs_err_pid*
 
 # IntelliJ config files and directories
 .idea/
+
+# POM file
+pom.xml
